@@ -12,6 +12,8 @@ and rise lava with 2,4 tick at 1195 18 89 1190 18 84 then 1195 19 89 1190 19 84 
 rise lava with 2,4 tick at 1193 20 99 1188 20 103 repeat until Y 40 then fill lava with 2,4 tick at 1191 29 98 1192 29 92 then 1191 30 98 1192 30 92,
 and rise lava with 2,4 tick at 1187 24 91 1198 24 80 repeat until Y 37,
 and rise lava with 2,4 tick at 1206 33 84 1203 33 87 repeat until Y 36,
+and rise lava with 2,4 tick at 1198 38 80 1187 38 91 repeat until Y 49;
+Wait 10 second
 
 //Reset
 drain lava at 1194 17 98 1187 41 104
